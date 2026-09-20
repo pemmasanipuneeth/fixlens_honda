@@ -1,0 +1,7 @@
+streamlit>=1.42
+openai>=1.60
+pydantic>=2.10
+python-dotenv>=1.0
+Pillow>=10.4
+pinecone>=6.0
+
